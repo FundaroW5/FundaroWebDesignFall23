@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(66, 66, 195);
+    color: white;
+}
+h1{
+    color: white;
+}
+a{
+    color:white;
+}
+#Ocean1:hover{
+    width: 300px;
+    height: 300px;
+   transition:
+   width 2s,
+   height 2s;
+}
+#ocean2:hover{
+    width: 300px; 
+    height: 300px;
+    transition:
+    width 2s,
+    height 2s;
+}
+#ocean3:hover{
+    width: 300px;
+    height: 300px;
+    transition:
+    width 2s,
+    height 2s;
+}
+#chart:hover{
+    width: 500px;
+    height: 500px;
+    transition:
+    width 2s,
+    height 2s;
+}
+
+img{
+    width:150px;
+    height:150px;
+    transition:
+    width 2s,
+    height 2s;
+}
