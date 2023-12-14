@@ -5,12 +5,27 @@ img{
 img{
     width: 300px;
     transition:
-    width 5s,
-    height
+    height: 400px
 }
 body{
     background-color: gold;
 }
 a{
     color: black;
+}
+#bird{
+    width: 100px;
+    height: 100px;
+}
+#instagram{
+    width: 100px;
+    height: 100px;
+}
+#silk{
+    width: 300px;
+    height: 200px;
+}
+#silk:hover{
+    width: 500px;
+    height: 400px;
 }
