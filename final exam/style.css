@@ -2,11 +2,6 @@ img{
     height: 215px;
     width: 200px;
 }
-img{
-    width: 300px;
-    transition:
-    height: 400px
-}
 body{
     background-color: gold;
 }
@@ -20,12 +15,4 @@ a{
 #instagram{
     width: 100px;
     height: 100px;
-}
-#silk{
-    width: 300px;
-    height: 200px;
-}
-#silk:hover{
-    width: 500px;
-    height: 400px;
 }
